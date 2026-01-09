@@ -1,8 +1,6 @@
 use std::collections::HashMap;
 
 /*
-Problem URL: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-
 Solution:
 Using sliding window,
 
