@@ -1,8 +1,6 @@
 mod arrays;
-
+mod greedy;
 
 fn main() {
-    
-    let d = "w2";
-    println!("Hello, world!");
+    println!("Blind 75 solutions \n use `cargo test` for running the tests");
 }
