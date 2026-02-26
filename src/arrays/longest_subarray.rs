@@ -23,7 +23,7 @@ pub fn length_of_longest_substring(s: String) -> i32 {
             Some(c_index) => {
                 if max_len < (i - left_ptr) {
                     max_len = i - left_ptr;
-                    println!("i: {}, left: {}, maxLen : {}", i, left_ptr, max_len);
+                    //println!("i: {}, left: {}, maxLen : {}", i, left_ptr, max_len);
                 }
                 if c_index >= &left_ptr {
                     left_ptr = c_index.to_owned() + 1;
