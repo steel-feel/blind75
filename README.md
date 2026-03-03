@@ -12,5 +12,8 @@ Solution to blind 75 (neetcode)
 - [x] [Sums of three elements should be zero ](https://leetcode.com/problems/3sum/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 
+### Linked list
+- [x] [Reorder linked list](https://leetcode.com/problems/reorder-list/)
+
 ### Greedy
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
