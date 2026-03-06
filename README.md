@@ -14,6 +14,7 @@ Solution to blind 75 (neetcode)
 
 ### Linked list
 - [x] [Reorder linked list](https://leetcode.com/problems/reorder-list/)
+- [x] [Remove the nth node from end ](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 
 ### Greedy
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals)
